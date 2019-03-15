@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Node OAuth2 Server Implementation
 
 Supports `    "oauth2-server": "^3.0.0-b2",`
