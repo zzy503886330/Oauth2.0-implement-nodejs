@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node OAuth2 Server Implementation
 
 Supports `    "oauth2-server": "^3.0.0-b2",`
@@ -5,8 +6,6 @@ Supports `    "oauth2-server": "^3.0.0-b2",`
 ## Installation
 
 ```
-git clone https://github.com/manjeshpv/node-oauth2-server-implementation
-npm install
 npm start or node ./bin/www
 ```
 
@@ -96,7 +95,3 @@ See SQL file in `/sql` folder
 The module requires a model object through which some aspects or storage, retrieval and custom validation are abstracted.
 The last parameter of all methods is a callback of which the first parameter is always used to indicate an error.
 
-Note: see https://github.com/manjeshpv/node-oauth2-server-implementation/blob/master/components/oauth/models.js for a full model example using MySQL.
-
-References:
-https://github.com/dsquier/oauth2-server-php-mysql
